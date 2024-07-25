@@ -4,7 +4,7 @@
 This project involves analyzing and preprocessing the Naukri.com job dataset to extract valuable insights related to pay rates, experience, and job locations.
 
 ## Dataset
-The dataset used for this analysis is sourced from [Naukri.com](https://www.kaggle.com/datasets/PromptCloudHQ/jobs-on-naukricom).
+The dataset used for this analysis is sourced from [Kaggle.com.com](https://www.kaggle.com/datasets/PromptCloudHQ/jobs-on-naukricom).
 
 ## Project Steps
 1. **Data Cleaning**:
